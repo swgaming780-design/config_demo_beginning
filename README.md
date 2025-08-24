@@ -4,7 +4,7 @@ I created this from my very very cool professor's instructional video on git tec
 
 ## Additional Comments
 
-This was very very fun to do
+This was very very very fun to do
 
 * Item 1
 * Item two
