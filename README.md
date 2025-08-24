@@ -4,17 +4,17 @@ I created this from my very very cool professor's instructional video on git tec
 
 ## Additional Comments
 
-This was fun to do
+This was very very fun to do
 
 * Item 1
-* Item 2
+* Item two
 * Item 3
 
 
 Numbered List
 
 1. First Item
-2. Second Item
+2. 2nd Item
 3. Third Item
 
 I absolutely love Git!
