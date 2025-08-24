@@ -18,3 +18,4 @@ Numbered List
 3. Third Item
 
 I absolutely love Git!
+I really do mean that I love Git SCM
